@@ -17,6 +17,7 @@ h1 {
 
 }
 button{
+  padding:5px;
   font-size: 16px;
   border-radius: 3px;
   background-color: lightblue;
@@ -38,7 +39,7 @@ a:visited{
 
 a:hover {
   background-color: yellow;
-  color:black;
+
 }
 button:active {
   box-shadow: none;
